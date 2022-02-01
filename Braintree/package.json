@@ -1,0 +1,9 @@
+{
+  "name": "braintree",
+  "version": "1.0.0",
+  "description": "Online Payment Solutions API",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}

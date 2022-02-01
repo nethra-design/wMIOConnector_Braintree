@@ -1,0 +1,20 @@
+{
+  "name": "Braintree",
+  "description": "Online Payment Solutions API",
+  "triggers": [],
+  "actions": [
+    "/v1/chargepaymentmethod",
+    "/v1/capturetransaction",
+    "/v1/authorizepayment",
+    "/v1/create_client_token",
+    "/v1/refundtransaction",
+    "/v1/vaultpaymentmethod",
+    "/v1/searchtransactions"
+  ],
+  "version": 1,
+  "auth_type": "apikey",
+  "doc_link": "http://docs.example.com",
+  "appId": "24512988-ccfa-40f2-ad3c-1f6f56a18883",
+  "guid": "45b14a92-544b-4d9f-aa2a-730a2e5af105",
+  "connectionUid": "braintree-IhW7JPH0j"
+}
